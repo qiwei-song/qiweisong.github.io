@@ -14,7 +14,7 @@ name                     : "Qiwei Song"
 description              : ""
 url                     : "https://qiweisong.github.io"
 baseurl                 : ""
-repository               : "jxtse/qiweisong.github.io"
+repository               : "qiwei-song/qiweisong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
