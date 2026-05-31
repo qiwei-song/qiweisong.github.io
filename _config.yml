@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxiang Xie"
+title                    : "Qiwei Song"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Qiwei Song"
 description              : ""
-url                     : "https://jxtse.github.io"
+url                     : "https://qiweisong.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "jxtse/qiweisong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,14 +27,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Qiwei Song"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dwpQBCwAAAAJ&hl=en"
+  email            : "qiwei.song@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "qiwei-song"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : "qiwei.song"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : "Qiwei Song"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
