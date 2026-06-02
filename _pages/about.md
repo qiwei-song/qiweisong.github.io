@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am a graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. I was a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+My name is <span class="accent-text">Qiwei Song</span>. I am a PhD Candidate in Architecture and a Computational Social Science Lab Fellow at <i class="fas fa-university"></i> **Chinese University of Hong Kong**. I am jointly supervised by Prof. Jeroen van Ameijde and Prof. Thomas Chung. Previously, I earned my Master of Landscape Archiecture degree from <i class="fas fa-university"></i> **University of Toronto** and Bachelor's of Engineering degree in Landscape Architecture from <i class="fas fa-university"></i> **Zhejiang A & F University**. I am a visiting researcher at Senseable City Laboratory at <i class="fas fa-university"></i> **Massachusetts Institute of Technology**, where I have the privilege of working with Principal Scientist <a href="https://scholar.google.com/citations?user=345-ILkAAAAJ&hl=en" class="link-accent">Dr. Paolo Santi</a>.
+Before pursuing my PhD, I gained valuable working experience in the design industry as registered landscape architect (liciensed in Ontario, Canada) and project manager at internationally acclaimed design consulting firms such as ARCADIS IBI Group, MT Planners, Gustafson Porter & Bowman and several others.
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
+My research focuses on leveraging <span class="primary-gradient-text">computational methods</span> to address complex urban reserch questions for better quality of life.
 </div>
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
@@ -34,7 +34,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>Publications at <span class="accent-text">LANDUP</span>, <span class="accent-text">TRPD</span></li>, etc.
     </ul>
   </div>
   
@@ -98,13 +98,18 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+- *2023.09 - Present*: &nbsp;Doctor of Philosophy in Architecture (Computational Social Science Fellow) at <span class="primary-gradient-text">School of Architecture, The Chinese University of Hong Kong</span>.
+- *2016.08 - 2018.06*: &nbsp;Master of Landscape Architecture at <span class="primary-gradient-text">Daniels Faculty of Architecture, Landscape and Design, University of Toronto</span>.
+- *2012.09 - 2016.07*: &nbsp;Bachelor of Engineering in Landscape Architecture, <span class="primary-gradient-text">Zhejiang A & F University</span>.
 
 # <i class="fas fa-laptop-code"></i> Internships
 - *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
+
+# <i class="fas fa-graduation-cap"></i> Selected Honors & Awards
+- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
+- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
 
 # <i class="fas fa-blog"></i> Blogs
 
