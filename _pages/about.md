@@ -19,20 +19,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Qiwei Song</span>. I am a PhD Candidate in Architecture and a Computational Social Science Lab Fellow at <i class="fas fa-university"></i> **Chinese University of Hong Kong**. I am jointly supervised by Prof. Jeroen van Ameijde and Prof. Thomas Chung. Previously, I earned my Master of Landscape Archiecture degree from <i class="fas fa-university"></i> **University of Toronto** and Bachelor's of Engineering degree in Landscape Architecture from <i class="fas fa-university"></i> **Zhejiang A & F University**. I am a visiting researcher at Senseable City Laboratory at <i class="fas fa-university"></i> **Massachusetts Institute of Technology**, where I have the privilege of working with Principal Scientist <a href="https://scholar.google.com/citations?user=345-ILkAAAAJ&hl=en" class="link-accent">Dr. Paolo Santi</a>.
+My name is <span class="accent-text">Qiwei Song</span>. I am a PhD Candidate in Architecture and a Computational Social Science Lab Fellow at <i class="fas fa-university"></i> **Chinese University of Hong Kong**. I am jointly supervised by Prof. Jeroen van Ameijde and Prof. Thomas Chung. Previously, I earned my Master of Landscape Archiecture degree from <i class="fas fa-university"></i> **University of Toronto** and Bachelor's of Engineering degree in Landscape Architecture from <i class="fas fa-university"></i> **Zhejiang A & F University**. I am a visiting PhD student at Senseable City Laboratory at <i class="fas fa-university"></i> **Massachusetts Institute of Technology**, where I have the privilege of working with Principal Scientist <a href="https://scholar.google.com/citations?user=345-ILkAAAAJ&hl=en" class="link-accent">Dr. Paolo Santi</a>.
 Before pursuing my PhD, I gained valuable working experience in the design industry as registered landscape architect (liciensed in Ontario, Canada) and project manager at internationally acclaimed design consulting firms such as ARCADIS IBI Group, MT Planners, Gustafson Porter & Bowman and several others.
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">computational methods</span> to address complex urban reserch questions for better quality of life.
+I study the complex interplay between the perceptions of built environment and human behaviour using <span class="primary-gradient-text">new data and computational methods</span>, including spatial and statistical analysis, mapping, and deep learning algorithms including Large Language Models. I am currently developing data-driven computational methods to comprehensively evaluate the walking accessibility to amenities and the quality of life in the high-density urban contexts towards the X-minute City vision. 
 </div>
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3><i class="fas fa-microscope"></i> Urban Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
+      <li>Research focus on <span class="accent-text">computational methods</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
       <li>Publications at <span class="accent-text">LANDUP</span>, <span class="accent-text">TRPD</span></li>, etc.
     </ul>
@@ -61,55 +61,173 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
-# <i class="fas fa-file-alt"></i> Publications 
+# <i class="fas fa-file-alt"></i> Selected Publications (as First# & Corresponding* Author)
+
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Under Review</div>
-    <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
+    <div class="badge pulse-accent">LANDUP</div>
+    <img src='images/1 Beyond Sentiment_thumnail.jpg' alt="DSGram Framework Overview" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">Under Review</div>
-    <!-- <div class="links">
-      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div> -->
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2025</div>
-    <img src='images/Example_page-0001.png' alt="DSGram Framework Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan</div>
-    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <h3>Beyond sentiment: Using large language models to decode multidimensional urban park perceptions for enhanced equality</h3>
+    <div class="authors"><strong>Qiwei Song#</strong>, Siyu Tian, Lingwei Zheng, Yuxuan Zheng, Lin Qiu, Bo Huang, Jeroen van Ameijde* </div>
+    <div class="venue">Landscape and Urban Planning, 2026, 268: 105571.</div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0169204625002786" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/song et al 2026_Beyond Sentiment_LANDUP.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
     </div>
   </div>
 </div>
 
-- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">TRPA</div>
+    <img src='images/Desirable bikeshare routes_Cai et al_TRA2026.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Desirable bikeshare routes: Nonlinear impacts of micro-level street environments</h3>
+    <div class="authors"><strong>Yuxuan Cai#, Qiwei Song#</strong>, Yiming Cheng, Anzhi Chen, Yuankai Wang, Wenjing Li, Waishan Qiu* </div>
+    <div class="venue">Transportation Research Part A: Policy and Practice, 2026, 208: 104962.</div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0965856426001035" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/Desirable bikeshare routes_Cai et al_TRA2026.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
 
-# <i class="fas fa-graduation-cap"></i> Educations
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">JUM</div>
+    <img src='images/Tan2026_JUM.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Visual perception-informed urban design toolkit: Computational urban morphology optimisation to inform real-time perceived safety</h3>
+    <div class="authors"><strong>Xinyu Tan#, Qiwei Song#</strong>, Xun Liu, Waishan Qiu* </div>
+    <div class="venue">Journal of Urban Management, 2026, 15(2): 600-616.</div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2226585625001426" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/Tan2026_JUM.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">EPB</div>
+    <img src='images/Song EPB2025.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Exploring the coherence and divergence between the objective and subjective measurement of streetscape perceptions at the neighborhood level: A case study in Shanghai</h3>
+    <div class="authors"><strong>Qiwei Song#</strong>, Yuxian Fang, Meikang Li, Jeroen van Ameijde, Waishan Qiu* </div>
+    <div class="venue">Environment and Planning B: Urban Analytics and City Science, 2025, 52(5): 1231–1251.</div>
+    <div class="links">
+      <a href="https://journals.sagepub.com/doi/abs/10.1177/23998083241292680" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/Song EPB2025.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">CUS</div>
+    <img src='images/Machine learning‑based urban densification_Li 2025_CUS.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Machine learning-based urban densification: extending roof ridge lines for sustainable housing extension using generative adversarial networks</h3>
+    <div class="authors"><strong>Yangzhi Li#*</strong>, Jingwei Li,  Qiwei Song* </div>
+    <div class="venue">Computational Urban Science, 2025, 5:48.</div>
+    <div class="links">
+      <a href="https://link.springer.com/article/10.1007/s43762-025-00205-w" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/Machine learning‑based urban densification_Li 2025_CUS.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">TRPD</div>
+    <img src='images/song_trd2024.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Unraveling the effects of micro-level street environment on dockless bikeshare in Ithaca</h3>
+    <div class="authors"><strong>Qiwei Song#</strong>, Yulu Huang, Wenjing Li, Faan Chen, Waishan Qiu* </div>
+    <div class="venue">Transportation research part D: transport and environment, 2024, 132:104256.</div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S136192092400213X" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/song_trd2024.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">AI</div>
+    <img src='images/Song_architectural inte2023.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>The evaluation of urban spatial quality and utility trade-offs for Post-COVID working preferences: a case study of Hong Kong</h3>
+    <div class="authors"><strong>Qiwei Song#</strong>, Zhiyi Dou, Waishan Qiu, Wenjing Li, Jingsong Wang, Jeroen van Ameijde, Dan Luo* </div>
+    <div class="venue">Architectural Intelligence, 2023, 2:1.</div>
+    <div class="links">
+      <a href="https://link.springer.com/article/10.1007/s44223-022-00020-x" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/Song_architectural inte2023.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">LAND</div>
+    <img src='images/song_land2022.jpg' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>The evaluation of urban spatial quality and utility trade-offs for Post-COVID working preferences: a case study of Hong Kong</h3>
+    <div class="authors"><strong>Qiwei Song#</strong>, Yifeng Liu, Waishan Qiu, Ruijun Liu, Meikang Li* </div>
+    <div class="venue">Land, 2022, 11(11):2002.</div>
+    <div class="links">
+      <a href="https://www.mdpi.com/2073-445X/11/11/2002" class="btn-accent"><i class="fas fa-file-alt"></i> Website</a>
+      <a href="files/song_land2022.pdf" class="btn-accent"><i class="fab fa-github"></i> PDF</a>
+    </div>
+  </div>
+</div>
+
+
+- Yulu Huang#, **Qiwei Song#**, Weixuan Wei, Waishan Qiu*. Elevated habitats of urban avian communities? Assessing the influence of multidimensional structural characteristics of green roofs in Shanghai. **Under Revision**.
+- **Qiwei Song#**, Meikang Li, Waishan Qiu, Kaihang Zhang, Jeroen van Ameijde. Leveraging street experiments to promote active travel during and after the pandemic – Revealing the causal influence through the case of CaféTO program using Spatial Difference-in-difference model. **Under Review**.
+
+# <i class="fas fa-graduation-cap"></i> Education
+- *2025.11 - 2026.07*: &nbsp;Visiting PhD Student at <span class="primary-gradient-text">Senseable City Laboratory, Massachusetts Institute of Technology</span>.
 - *2023.09 - Present*: &nbsp;Doctor of Philosophy in Architecture (Computational Social Science Fellow) at <span class="primary-gradient-text">School of Architecture, The Chinese University of Hong Kong</span>.
 - *2016.08 - 2018.06*: &nbsp;Master of Landscape Architecture at <span class="primary-gradient-text">Daniels Faculty of Architecture, Landscape and Design, University of Toronto</span>.
 - *2012.09 - 2016.07*: &nbsp;Bachelor of Engineering in Landscape Architecture, <span class="primary-gradient-text">Zhejiang A & F University</span>.
 
-# <i class="fas fa-laptop-code"></i> Internships
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
+# <i class="fas fa-laptop-code"></i> Selected Professional Experience (Post-graduation)
+- *2021 - 2023*: &nbsp;Project Manager / Landscape Architect / Student Intern Mentor, **<a href="https://www.arcadis.com/en" class="link-accent">Arcadis (formerly IBI Group)</a>**, Toronto, Canada.
+- *2019 - 2021*: &nbsp;Landscape and Urban Designer, **<a href="https://mtplanners.com/" class="link-accent">Moriyama & Teshima Planners</a>**, Toronto, Canada.
+- *2018 - 2019*: &nbsp;Landscape Architect Intern/Assistant, **<a href="https://www.gp-b.com/" class="link-accent">Gustafson Porter + Bowman</a>**, London, UK.
+
+# <i class="fas fa-laptop-code"></i> Selected Professional Registrations & Credentials
+- *2021 - Present*: &nbsp; Registered LA, OALA (Ontario Association of Landscape Architects)Full Member with Stamp.
+- *2021 - Present*: &nbsp; Registered LA, CSLA (Canadian Society of Landscape Architects) Full Member.
+- *2021 - Present*: &nbsp; Sustainable SITES Accredited Professional (SITES AP), Sustainable SITES Initiative, GBCI.
 
 # <i class="fas fa-graduation-cap"></i> Selected Honors & Awards
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+- *2025*: 2025 IACP Best Student Paper Award, International Association for China Planning (IACP)
+- *2024*: Young CAADRIA Award, The Association for Computer-Aided Architectural Design Research in Asia (CAADRIA)
+- *2024*: 2023-2024 Design Talent Scholarship, The Chinese University of Hong Kong
+- *2024*: 2023-2024 Reaching Out Award, The Chinese University of Hong Kong
+- *2023-2027*: Vice-chancellor PhD Scholarship, The Chinese University of Hong Kong
+- *2023-2027*: Computational Social Science PhD Fellowship, The Chinese University of Hong Kong
+- *2021*: First Award, Urban Design (Concept), 2021 Rethinking the Future Awards
+- *2020*: Best of best, Urban Planning Category, 2020 Architecture MasterPrize - Student Architectural Design Award
+- *2020*: Award of Excellence, 2020 Canada National Urban Design Awards, Student Project Category
+- *2020*: Certificate of Merit, 2020 Canada National Urban Design Awards, Student Project Category
+- *2019*: Winner, Grand Site Tour Eiffel Competition（affiliated with Gustafson Porter+Bowman）
+- *2019*: 2019 WLA Award Merit Award, Student Category
+- *2018*: 2018 ASLA (American Society of Landscape Architects) Student Honor Award, Analysis and Planning Category
+- *2018*: 2018 ASLA (American Society of Landscape Architects) Certificate of Merit
+
 
 # <i class="fas fa-blog"></i> Blogs
 
